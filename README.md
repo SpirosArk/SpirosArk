@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I am Spiros Arkoudelis
 - 🔭 Currently trying to clean code at open-source project: [Codinasion](https://github.com/codinasion)
 - 📫 Contact me on: [Linkedin](https://www.linkedin.com/in/spiros-arkoudelis/)
 
