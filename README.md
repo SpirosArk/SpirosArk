@@ -2,9 +2,8 @@
 - 🔭 Currently trying to clean code at open-source project: [Codinasion](https://github.com/codinasion)
 - 📫 Contact me on: [Linkedin](https://www.linkedin.com/in/spiros-arkoudelis/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpirosArk&count_private=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpirosArk&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <!--
 **SpirosArk/SpirosArk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
