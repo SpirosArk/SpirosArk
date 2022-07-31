@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on [Codinasion](https://github.com/codinasion)
-- 📫 How to reach me: [Linkedin]([sp.arkoudelis@gmail.com](https://www.linkedin.com/in/spiros-arkoudelis/))
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/spiros-arkoudelis/)
 
 <!--
 **SpirosArk/SpirosArk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
