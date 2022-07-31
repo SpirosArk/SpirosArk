@@ -3,7 +3,7 @@
 - 📫 Contact me on: [Linkedin](https://www.linkedin.com/in/spiros-arkoudelis/)
 
 
-![Spiros' GitHub stats](https://github-readme-stats.vercel.app/api?username=SpirosArk&show_icons=true&theme=tokyonight&count_private=true&hide=stars,issues)
+![Spiros' GitHub stats](https://github-readme-stats.vercel.app/api?username=SpirosArk&show_icons=true&theme=tokyonight&count_private=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpirosArk&hide=Haskell,Prolog)](https://github.com/SpirosArk/github-readme-stats)
