@@ -3,7 +3,8 @@
 - 📫 Contact me on: [Linkedin](https://www.linkedin.com/in/spiros-arkoudelis/)
 
 
-![Anurag's GitHub stats]()
+![Spiros' GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&count_private=true&hide=stars,issues)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpirosArk&hide=Haskell,Prolog)](https://github.com/SpirosArk/github-readme-stats)
 
