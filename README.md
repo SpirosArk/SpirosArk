@@ -3,7 +3,7 @@
 - 📫 Contact me on: [Linkedin](https://www.linkedin.com/in/spiros-arkoudelis/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpirosArk&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpirosArk&show_icons=true&theme=tokyonight)
 
 <!--
 **SpirosArk/SpirosArk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
