@@ -3,9 +3,17 @@
 - 📫 Contact me on: [Linkedin](https://www.linkedin.com/in/spiros-arkoudelis/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpirosArk&show_icons=true&theme=tokyonight&hide=issues,stars&count_private=true)
+![Anurag's GitHub stats]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpirosArk&hide=Haskell,Prolog)](https://github.com/SpirosArk/github-readme-stats)
+
+
+<a href="https://github.com/SpirosArk/github-readme-stats">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=SpirosArk&show_icons=true&theme=tokyonight&hide=issues,stars&count_private=true)" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=SpirosArk&hide=Haskell,Prolog)" />
+</a>
 
 <!--
 **SpirosArk/SpirosArk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
