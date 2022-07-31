@@ -1,5 +1,7 @@
 ### Hi 👋, I am Spiros Arkoudelis
 - 🔭 Currently trying to clean code at open-source project: [Codinasion](https://github.com/codinasion)
+
+___
 ### 📫 Contact me on:
 
 
@@ -10,6 +12,7 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
+___
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
@@ -20,7 +23,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vscode/vscode.png"></code>
 
 
-
+___
 
 
 
@@ -28,7 +31,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SpirosArk&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-
+___
 <!--
 **SpirosArk/SpirosArk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
