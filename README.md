@@ -9,13 +9,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpirosArk&hide=Haskell,Prolog)](https://github.com/SpirosArk/github-readme-stats)
 
 
-<a href="https://github.com/SpirosArk/github-readme-stats">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=SpirosArk&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=SpirosArk&show_icons=true&theme=tokyonight&hide=issues,stars&count_private=true)" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=SpirosArk&repo=convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=SpirosArk&hide=Haskell,Prolog)" />
-</a>
-
 <!--
 **SpirosArk/SpirosArk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
