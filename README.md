@@ -15,23 +15,19 @@ Currently trying to clean code at open-source project: [Codinasion](https://gith
 
 ### :chart_with_upwards_trend: Stats about me:
 
-<p align="center">
- 
- ![Spiros' GitHub stats](https://github-readme-stats.vercel.app/api?username=SpirosArk&show_icons=true&theme=tokyonight&count_private=true)
- 
-</p>
+![Spiros' GitHub stats](https://github-readme-stats.vercel.app/api?username=SpirosArk&show_icons=true&theme=tokyonight&count_private=true)
 
-<p align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SpirosArk&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-</p>
 
 ***
 
 ### :mailbox: Contact:
+<p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/spiros-arkoudelis/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a><a target="_blank" href="mailto:sp.arkoudelis@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+</p>
 </br>
   
 ***
