@@ -34,7 +34,7 @@ Currently trying to clean code at open-source project: [Codinasion](https://gith
 ***
 <p align="center">
 ![](https://komarev.com/ghpvc/?username=SpirosArk)
-</p>
+  </p>
 <!--
 **SpirosArk/SpirosArk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
