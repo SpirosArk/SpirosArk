@@ -10,7 +10,7 @@
 
 ***
 ### ⚡ Stack:
-<code><img height="25" src="https://github.com/get-icon/geticon/blob/master/icons/java.svg">  <img height="25" src="https://github.com/get-<code>icon/geticon/blob/master/icons/mysql.svg">  <img height="25" src="https://github.com/get-icon/geticon/blob/master/icons/c.svg">  <img height="25" <code>src="https://github.com/get-icon/geticon/blob/master/icons/git.svg">  <img height="25" src="https://github.com/get-icon/geticon/blob/master/icons/terminal.svg"> <code> <img height="25" src="https://github.com/get-icon/geticon/blob/master/icons/python.svg">
+<img height="25" src="https://github.com/get-icon/geticon/blob/master/icons/java.svg">  <img height="25" src="https://github.com/get-icon/geticon/blob/master/icons/mysql.svg">  <img height="25" src="https://github.com/get-icon/geticon/blob/master/icons/c.svg">  <img height="25" src="https://github.com/get-icon/geticon/blob/master/icons/git.svg">  <img height="25" src="https://github.com/get-icon/geticon/blob/master/icons/terminal.svg">  <img height="25" src="https://github.com/get-icon/geticon/blob/master/icons/python.svg">
 
 ***
 
