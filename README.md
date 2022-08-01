@@ -10,7 +10,7 @@
 
 ***
 ### ⚡ Stack:
-<img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/java.svg">
+<img height="30" src="https://github.com/get-icon/geticon/blob/master/icons/java.svg">
   
 <code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/mysql.svg"><code>
 <code><img height="20" src="https://raw.github.com/get-icon/geticon/tree/master/icons/mysql.svg"></code>
