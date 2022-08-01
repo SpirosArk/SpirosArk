@@ -2,7 +2,6 @@
   </p>
 
 <p align="center">
-
 Currently trying to clean code at open-source project: [Codinasion](https://github.com/codinasion)
 
 </p>
