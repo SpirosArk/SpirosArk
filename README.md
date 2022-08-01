@@ -1,4 +1,4 @@
-# Hi 👋, I am Spiros Arkoudelis
+# Hi :wave:, I am Spiros Arkoudelis
 
 Currently trying to clean code at open-source project: [Codinasion](https://github.com/codinasion)
 ***
