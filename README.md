@@ -16,7 +16,9 @@ Currently trying to clean code at open-source project: [Codinasion](https://gith
 ### :chart_with_upwards_trend: Stats about me:
 
 <p align="center">
+ 
  ![Spiros' GitHub stats](https://github-readme-stats.vercel.app/api?username=SpirosArk&show_icons=true&theme=tokyonight&count_private=true)
+ 
 </p>
 
 <p align="center">
