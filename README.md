@@ -1,4 +1,6 @@
-<p align="center"># Hi :wave:, I am Spiros Arkoudelis</p>
+<p align="center">
+  # Hi :wave:, I am Spiros Arkoudelis
+</p>
 
 Currently trying to clean code at open-source project: [Codinasion](https://github.com/codinasion)
 
