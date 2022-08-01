@@ -20,7 +20,7 @@ Currently trying to clean code at open-source project: [Codinasion](https://gith
 </p>
 
 <p align="center">
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SpirosArk&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SpirosArk&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </p>
 
 ***
