@@ -25,7 +25,7 @@ Currently trying to clean code at open-source project: [Codinasion](https://gith
 </a><a target="_blank" href="mailto:sp.arkoudelis@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
   
-![Visitor Count](https://profile-counter.glitch.me/spirosArk/count.svg)
+![](https://komarev.com/ghpvc/?username=SpirosArk)
 
 <!--
 **SpirosArk/SpirosArk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
