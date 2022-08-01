@@ -25,6 +25,7 @@ Currently trying to clean code at open-source project: [Codinasion](https://gith
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/spiros-arkoudelis/">
     <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    </p>
   </a><a target="_blank" href="mailto:sp.arkoudelis@gmail.com">
     <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
 </p>
