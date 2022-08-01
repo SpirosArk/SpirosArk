@@ -1,6 +1,7 @@
 ### Hi 👋, I am Spiros Arkoudelis
 
 - 🔭 Currently trying to clean code at open-source project: [Codinasion](https://github.com/codinasion)
+***
 
 ### 📫 Contact:
 <a target="_blank" href="https://www.linkedin.com/in/spiros-arkoudelis/">
