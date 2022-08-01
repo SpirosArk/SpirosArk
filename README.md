@@ -19,10 +19,10 @@ Currently trying to clean code at open-source project: [Codinasion](https://gith
 </br>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/SpirosArk/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SpirosArk&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/SpirosArk/convoychat">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=SpirosArk&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
 </a>
 
