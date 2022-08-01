@@ -13,7 +13,7 @@ Currently trying to clean code at open-source project: [Codinasion](https://gith
 ***
 
 ### :thought_balloon: Stats about me:
-<br/>
+
 ![Spiros' GitHub stats](https://github-readme-stats.vercel.app/api?username=SpirosArk&show_icons=true&theme=tokyonight&count_private=true)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SpirosArk&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
