@@ -6,7 +6,7 @@ Currently trying to clean code at open-source project: [Codinasion](https://gith
 
 ### ⚡ Stack
 
-<img height="25" src="https://github.com/get-icon/geticon/blob/master/icons/java.svg">  <img height="25" src="https://github.com/get-icon/geticon/blob/master/icons/c.svg">  <img height="25" src="https://github.com/get-icon/geticon/blob/master/icons/python.svg">  <img height="25" src="https://github.com/get-icon/geticon/blob/master/icons/git.svg">  <img height="25" src="https://github.com/get-icon/geticon/blob/master/icons/linux-tux.svg">  <img height="25" src="https://github.com/get-icon/geticon/blob/master/icons/mysql.svg">
+<img height="25" src="https://github.com/get-icon/geticon/blob/master/icons/java.svg">  <img height="25" src="https://github.com/get-icon/geticon/blob/master/icons/c.svg">  <img height="25" src="https://github.com/get-icon/geticon/blob/master/icons/python.svg"> <img height="25" src="https://github.com/get-icon/geticon/blob/master/icons/julia.svg">  <img height="25" src="https://github.com/get-icon/geticon/blob/master/icons/git.svg">  <img height="25" src="https://github.com/get-icon/geticon/blob/master/icons/linux-tux.svg">  <img height="25" src="https://github.com/get-icon/geticon/blob/master/icons/mysql.svg">
 </p>
 
 
