@@ -1,9 +1,9 @@
 # <p align="center">Hi :wave:, I am Spiros Arkoudelis
   </p>
 
-
+<p align="center">
 Currently trying to clean code at open-source project: [Codinasion](https://github.com/codinasion)
-
+</p>
 
 ***
 
